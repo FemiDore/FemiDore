@@ -6,7 +6,6 @@ I enjoy working with data, learning how systems scale, and building projects tha
 I'm committed to learning in public and improving consistently through hands-on practice.
 
 ---
-
 ## 🚧 What I’m Currently Working On
 - Strengthening my **Python and SQL** skills for data engineering
 - Building small **ETL pipelines**
@@ -14,7 +13,6 @@ I'm committed to learning in public and improving consistently through hands-on 
 - Documenting my progress through GitHub projects
 
 ---
-
 ## 🤝 Looking to Collaborate On
 - Beginner-friendly **data engineering projects**
 - ETL pipelines and data workflows
