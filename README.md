@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-# Hi, I’m Femi 👋
-
-Aspiring **Data Engineer** from Nigeria
-Focused on building scalable data pipelines and cloud-based data systems.
+I'm Femi, an aspiring **Data Engineer** from Nigeria
+Focused on learning and developing my skill set as a data engineer
 
 ---
 
-## 👨‍💻 Who I Am
 I’m an aspiring Data Engineer who started my coding journey in **2025**.  
 I enjoy working with data, learning how systems scale, and building projects that solve real problems.  
 I’m committed to learning in public and improving consistently through hands-on practice.
