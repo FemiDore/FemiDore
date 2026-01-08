@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-
-I'm Femi, an aspiring **Data Engineer** from Nigeria
-Focused on learning and developing my skill set as a data engineer
-
----
-
-I’m an aspiring Data Engineer who started my coding journey in **2025**.  
+I'm Femi, an aspiring **Data Engineer** from Nigeria.  
+I started my coding journey in **2025** and I'm focused on learning and developing my skills in data engineering.  
 I enjoy working with data, learning how systems scale, and building projects that solve real problems.  
-I’m committed to learning in public and improving consistently through hands-on practice.
+I'm committed to learning in public and improving consistently through hands-on practice.
 
 ---
 
@@ -37,6 +32,7 @@ I’m committed to learning in public and improving consistently through hands-o
 ---
 
 ## 🛠️ Tools & Technologies
+
 **Languages**
 - Python
 - SQL
@@ -44,44 +40,37 @@ I’m committed to learning in public and improving consistently through hands-o
 
 **Data & Analytics**
 - Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - PostgreSQL
 
 **Learning / Exploring**
-- AWS  
-- Apache Spark & PySpark  
-- Apache Airflow  
-- dbt  
-- BigQuery  
-- Snowflake  
-- Docker & Kubernetes  
-- Tableau  
+- AWS
+- Apache Spark & PySpark
+- Apache Airflow
+- Kafka
+- dbt
+- BigQuery
+- Snowflake
+- Docker & Kubernetes
+- Tableau
+  
+---
+
+## 🎉 Fun Facts About Me
+- I believe consistency matters — one step at a time 🚀  
+- I’ve stayed away from soda since 2021  
+- I don’t drink or smoke  
+- I love documentaries and anime (favorite: **Dragon Ball Z**)  
+- I really love math  
+- I like building things that make people's lives easier  
 
 ---
 
-## 🎉 Fun Fact
-I believe consistency beats talent — one commit at a time 🚀
-
----
-
-## 📫 How to Reach Me
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: yourname@email.com  
+## 📫 How to Reach Me 
+- Email: **doregabriel6@gmail.com**
 
 ---
 
 📌 *Open to internships, junior roles, and mentorship opportunities.*
-<!--
-**FemiDore/FemiDore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
